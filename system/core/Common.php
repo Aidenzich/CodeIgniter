@@ -126,6 +126,7 @@ if ( ! function_exists('is_really_writable'))
 if ( ! function_exists('load_class'))
 {
 	/**
+	 * AZ_NOTE20200508 use this function to require the class php
 	 * Class registry
 	 *
 	 * This function acts as a singleton. If the requested class does not
